@@ -1,0 +1,56 @@
+/* Add this CSS to your footer.component.css (or .scss) file */
+
+.container.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .container.footer h4 {
+    color: #fff;
+  }
+  
+  .container.footer ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .container.footer li {
+    margin: 8px 0;
+  }
+  
+  .container.footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .container.footer a:hover {
+    color: #007bff;
+  }
+  
+  .container.footer .btn-google-plus,
+  .container.footer .btn-facebook,
+  .container.footer .btn-linkedin,
+  .container.footer .btn-twitter,
+  .container.footer .btn-youtube,
+  .container.footer .btn-mail {
+    margin: 10px 10px;
+    font-size: 24px;
+  }
+  
+  .container.footer .btn-google-plus:hover,
+  .container.footer .btn-facebook:hover,
+  .container.footer .btn-linkedin:hover,
+  .container.footer .btn-twitter:hover,
+  .container.footer .btn-youtube:hover,
+  .container.footer .btn-mail:hover {
+    color: #dd4b39;
+  }
+  
+  .container.footer p {
+    margin-top: 20px;
+    font-size: 14px;
+  }
+  
+  
